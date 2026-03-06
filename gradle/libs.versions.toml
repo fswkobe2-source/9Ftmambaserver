@@ -70,7 +70,7 @@ netty-transport-native-kqueue = { module = "io.netty:netty-transport-native-kque
 netty-handler = { module = "io.netty:netty-handler", version.ref = "netty" }
 netty-resolver-dns-native-macos = { module = "io.netty:netty-resolver-dns-native-macos", version.ref = "netty" }
 netty-incubator-transport-native-iouring = { module = "io.netty.incubator:netty-incubator-transport-native-io_uring", version = "0.0.26.Final" }
-netty-tcnative-boringssl-static = { module = "io.netty:netty-tcnative-boringssl-static", version = "2.0.70.Final" }
+netty-tcnative-boringssl-static = { module = "io.netty:netty-tcnative-boringssl-static", version = "2.0.75.Final" }
 
 asm-core = { module = "org.ow2.asm:asm", version.ref = "asm" }
 asm-commons = { module = "org.ow2.asm:asm-commons", version.ref = "asm" }
