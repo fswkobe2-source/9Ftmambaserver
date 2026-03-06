@@ -5,7 +5,7 @@ kotlin = "2.1.20"
 kotlinx-serialization = "1.8.1"
 
 ktor = "3.1.2"
-exposed = "0.61.0"
+exposed = "1.1.1"
 
 slf4j = "2.0.17"
 logback = "1.5.18"
