@@ -88,7 +88,7 @@ jackson-dataformat-toml = { module = "com.fasterxml.jackson.dataformat:jackson-d
 javaparser-core = { module = "com.github.javaparser:javaparser-core", version.ref = "javaparser" }
 javaparser-symbol-solver-core = { module = "com.github.javaparser:javaparser-symbol-solver-core", version.ref = "javaparser" }
 
-hikari-cp = { module = "com.zaxxer:HikariCP", version = "6.3.0" }
+hikari-cp = { module = "com.zaxxer:HikariCP", version = "7.0.2" }
 
 apache-ant = { module = "org.apache.ant:ant", version = "1.10.15" }
 
